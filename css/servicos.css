@@ -8,18 +8,7 @@
    
 }
 
-#banner{ 
-    width: 100%;  /* tela inteira de qualquer*/
-    /* tea inteira de qualquer dispositivo */
-    height: auto;
-   
-   
-}
-.imgBanner{  /* tamanho da imagem dentro do section banner */
-    width: 100%;
-    height: auto; /* vc pode deixar do tamanho certo direto no photoshop*/
-    box-shadow: 0 10px #ac6410; 
-}
+
 .tamanhoLogo{
     width: 100%;
     height: 65px;
@@ -51,7 +40,7 @@
     
     font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
-    margin-top: 25px;
+    
     overflow-x:auto;
      
     
