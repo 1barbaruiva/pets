@@ -2,7 +2,7 @@
 /* para evitar erros com caracteres especias */
 
 #conteiner{
-    width: 80%; /* diminui o tamanho para ver centralizado  */
+    width: 100%; /* diminui o tamanho para ver centralizado  */
     margin: auto; /* centralizei a caixa principal */
   
 }
